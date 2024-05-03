@@ -1,4 +1,4 @@
-# Dermacentor SDM
+# Gastropod SDM and Elaphostrongylus DD model
 # Authors: Hannah Rose Vineer and Anna Ciezarek, University of Liverpool
 # Contact: Hannah.Vineer@liverpool.ac.uk
 # Last modified: 25/07/2022
